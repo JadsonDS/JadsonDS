@@ -13,9 +13,8 @@ Adoro ensinar e aprender coisas novas!
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=JadsonDS&show_icons=true&theme=radical&card_width=20"/>
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=JadsonDS&show_icons=true&theme=radical&card_width=1"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadsonDS&show_icons=true&theme=radical&card_width=420" />
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadsonDS&show_icons=true&theme=radical&card_width=320" />
 </a>
-
