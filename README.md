@@ -12,8 +12,8 @@ Adoro ensinar e aprender coisas novas!
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jadson002)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=JadsonDS&show_icons=true&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&ring_color=6BFBCE" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=JadsonDS&show_icons=true&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&ring_color=6BFBCE" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JadsonDS&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&ring_color=6BFBCE&layout=compact&langs_count=8&card_width=300" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JadsonDS&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&ring_color=6BFBCE&layout=compact&langs_count=8&card_width=250" />
 </a>
