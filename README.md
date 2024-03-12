@@ -32,3 +32,6 @@ Adoro ensinar e aprender coisas novas!
   <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
   <img align="center" src="https://img.shields.io/badge/Scikit Learn-3499cd?style=for-the-badge&logo=scikit learn&logoColor=f89939"/>
 </div>
+
+## Sobre mim:
+Sempre envolvido na área de Controle de Qualidade e Fabricação de Medicamentos em Indústria Farmacêutica Humana e  Veterinária, levo estes conhecimentos para a vida profissional nas formas de expressão, facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de equipe. Paixão por novas experiências, no momento estudando para migrar para área de Cientista de dados.
