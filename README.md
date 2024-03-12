@@ -17,3 +17,18 @@ Adoro ensinar e aprender coisas novas!
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JadsonDS&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&ring_color=6BFBCE&layout=compact&langs_count=8&card_width=250" />
 </a>
+
+## Tecnologias que uso no meu dia:
+
+<div style="display: inline_block"><br/>
+  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Jupyter-555555?style=for-the-badge&logo=Jupyter&logoColor=orange"/>
+  <img align="center" src="https://img.shields.io/badge/Python-3e7db0?style=for-the-badge&logo=python&logoColor=white&labelColor=ffd846"/>
+  <img align="center" src="https://img.shields.io/badge/Pandas-120751?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit&logoColor=ff4b4b"/>
+  <img align="center" src="https://img.shields.io/badge/Power BI-ffd846?style=for-the-badge&logo=power bi&logoColor=eab71d"/>
+  <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=ff4b4b"/>
+  <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
+  <img align="center" src="https://img.shields.io/badge/Scikit Learn-71b4ce?style=for-the-badge&logo=scikit learn&logoColor=ff9c34"/>
+</div>
