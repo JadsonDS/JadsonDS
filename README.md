@@ -11,7 +11,10 @@ Adoro ensinar e aprender coisas novas!
 [![Discord](https://img.shields.io/badge/Discord:jadson-5865f2?style=for-the-badge&logo=discord&logoColor=white)](jadson)
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jadson002)
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JadsonDS&show_icons=true&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&card_width=450px&ring_color=6BFBCE&hight=500px" alt="JadsonDS GitHub stats" style="height: 280px;">
+<div style="display: flex; justify-content: space-around; align-items: left;">
+    <div style="height: 380px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=JadsonDS&show_icons=true&bg_color=000000&title_color=ffffff&number_format=short&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&card_width=450px&ring_color=6BFBCE&hight=500px;" alt="JadsonDS GitHub stats">
+    </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadsonDS&bg_color=000000&title_color=ffffff&border_color=4669e0&text_color=A2A2A2&locale=pt-br&border_radius=4.5&card_width=350px&ring_color=6BFBCE&hight=500px" alt="Top Langs" style="height: 280px;">
 </div>
+
