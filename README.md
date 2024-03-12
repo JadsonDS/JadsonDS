@@ -23,12 +23,12 @@ Adoro ensinar e aprender coisas novas!
 <div style="display: inline_block"><br/>
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Jupyter-555555?style=for-the-badge&logo=Jupyter&logoColor=orange"/>
-  <img align="center" src="https://img.shields.io/badge/Python-3e7db0?style=for-the-badge&logo=python&logoColor=white&labelColor=ffd846"/>
+  <img align="center" src="https://img.shields.io/badge/Python-3e7db0?style=for-the-badge&logo=python&logoColor=ffd846"/>
   <img align="center" src="https://img.shields.io/badge/Pandas-120751?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit&logoColor=ff4b4b"/>
   <img align="center" src="https://img.shields.io/badge/Power BI-ffd846?style=for-the-badge&logo=power bi&logoColor=eab71d"/>
   <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=ff4b4b"/>
   <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
-  <img align="center" src="https://img.shields.io/badge/Scikit Learn-71b4ce?style=for-the-badge&logo=scikit learn&logoColor=ff9c34"/>
+  <img align="center" src="https://img.shields.io/badge/Scikit Learn-3499cd?style=for-the-badge&logo=scikit learn&logoColor=f89939"/>
 </div>
