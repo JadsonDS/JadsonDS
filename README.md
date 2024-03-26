@@ -34,4 +34,6 @@ Adoro ensinar e aprender coisas novas!
 </div>
 
 ## Sobre mim:
-Sempre envolvido na área de Controle de Qualidade e Fabricação de Medicamentos em Indústria Farmacêutica Humana e  Veterinária, levo estes conhecimentos para a vida profissional nas formas de expressão, facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de equipe. Paixão por novas experiências, no momento estudando para migrar para área de Cientista de dados.
+Sempre envolvido na área de Controle de Qualidade e Fabricação de Medicamentos em Indústria Farmacêutica, levo estes conhecimentos para a vida profissional nas formas de expressão, facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de equipe. Paixão por novas experiências.
+
+Estudante de Cientista de Dados com ótimo desempenho e grande disposição para o aprendizado. Capaz de oferecer um serviço de qualidade através de conhecimentos práticos e boas habilidades interpessoais, visando o desenvolvimento profissional.
