@@ -1,7 +1,7 @@
 ## Olá, meu nome é Jadson Nascimento Santos 
 ### Seja bem vindo(a) ao meu repositório do GitHub!
 
-Sou Estudante de Cientista e Analista de Dados, atualmente atuando como Monitor na [Comunidade DS](https://www.comunidadeds.com/)
+Sou Estudante de Cientista e Analista de Dados, atualmente atuando como Monitor e Cientista de Dados Empresa Júnior na [Comunidade DS](https://www.comunidadeds.com/)
 
 Adoro ensinar e aprender coisas novas!
 
@@ -34,6 +34,8 @@ Adoro ensinar e aprender coisas novas!
 </div>
 
 ## Sobre mim:
-Sempre envolvido na área de Controle de Qualidade e Fabricação de Medicamentos em Indústria Farmacêutica, levo estes conhecimentos para a vida profissional nas formas de expressão, facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de equipe. Paixão por novas experiências.
+Com mais de um ano de experiência recente como Cientista de Dados na Comunidade DS, tenho me dedicado aos estudos e ao desenvolvimento de painéis gerenciais que potencializam a tomada de decisões empresariais. Minha proficiência em Python foi fundamental para implementar soluções de Business Intelligence em um marketplace indiano de delivery, contribuindo para a otimização dos processos decisórios da empresa.
 
-Estudante de Cientista de Dados com ótimo desempenho e grande disposição para o aprendizado. Capaz de oferecer um serviço de qualidade através de conhecimentos práticos e boas habilidades interpessoais, visando o desenvolvimento profissional.
+Como Monitor, meu papel é oferecer suporte e orientação aos membros da comunidade DS em suas jornadas de Ciência e Análise de Dados. Essa função reflete minha paixão por ensinar e meu compromisso com a excelência, aspectos que desenvolvi ao longo da minha carreira anterior como Farmacêutico, onde cultivei um forte senso de qualidade e colaboração. Nosso objetivo é capacitar profissionais a transformar dados em insights valiosos, impulsionando o crescimento e o sucesso dos negócios.
+
+Na Empresa Júnior, colaboro em projetos com uma equipe dedicada para fornecer insights valiosos que auxiliam empresas na tomada de decisões estratégicas. Utilizo análise de dados e técnicas avançadas para identificar oportunidades e otimizar processos. Minha contribuição envolve interpretação de dados complexos e criação de soluções personalizadas para atender às necessidades específicas dos clientes. Essa experiência enriqueceu minhas habilidades de trabalho em equipe e aplicação prática de conhecimentos técnicos.
